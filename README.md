@@ -1,4 +1,3 @@
-# basic web template
+# JavaScript Exercise 1
 
-Basic web template for projects. After cloning this to local computer,
-remember to change the origin with $ git remote set-url origin ...
+June 5, 2017 - Exploring different data types in JS as well as funtions and methods
